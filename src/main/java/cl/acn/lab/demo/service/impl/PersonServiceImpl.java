@@ -36,8 +36,8 @@ public class PersonServiceImpl implements PersonService {
 
     @Override
     public PersonDTO getById(Long id) {
-        Optional<Person> data = this.personRepository.findById(id);
-        if (data.isPresent()) {
+        Person data = this.personRepository.findById(id).get();
+        if (data.getId() != 99) {
             return (PersonDTO) MapperUtils.map(data, PersonDTO.class);
         } else {
             return null;
