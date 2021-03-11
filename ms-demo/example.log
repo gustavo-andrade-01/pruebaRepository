@@ -1,0 +1,178 @@
+2021-03-10 19:53:00 INFO  DemoController:96 - ######  ENTRADA A POST EXAMPLE  | JSON REQUEST : [{"id":0,"name":"string","firstName":"string","lastName":"string"}]
+2021-03-10 19:53:01 INFO  DemoController:110 - ######  SALIDA DE POST EXAMPLE
+2021-03-10 19:53:20 INFO  DemoController:96 - ######  ENTRADA A POST EXAMPLE  | JSON REQUEST : [{"id":0,"name":"arge","firstName":"pepe","lastName":"string"}]
+2021-03-10 19:53:20 INFO  DemoController:110 - ######  SALIDA DE POST EXAMPLE
+2021-03-10 19:53:33 INFO  DemoController:71 - ######  ENTRADA A GET ALL EXAMPLE
+2021-03-10 19:53:33 INFO  DemoController:83 - ######  SALIDA DE GET ALL EXAMPLE
+2021-03-10 20:15:58 INFO  DemoController:71 - ######  ENTRADA A GET ALL EXAMPLE
+2021-03-10 20:16:11 INFO  DemoController:83 - ######  SALIDA DE GET ALL EXAMPLE
+2021-03-10 20:35:38 INFO  DemoController:96 - ######  ENTRADA A POST EXAMPLE  | JSON REQUEST : [{"id":0,"name":"arge","firstName":"pepe","lastName":"string"}]
+2021-03-10 20:37:12 INFO  DemoController:110 - ######  SALIDA DE POST EXAMPLE
+2021-03-10 20:38:20 INFO  DemoController:96 - ######  ENTRADA A POST EXAMPLE  | JSON REQUEST : [{"id":0,"name":"arge","firstName":"pepe","lastName":"string"}]
+2021-03-10 20:38:22 INFO  DemoController:110 - ######  SALIDA DE POST EXAMPLE
+2021-03-10 20:40:03 INFO  DemoController:71 - ######  ENTRADA A GET ALL EXAMPLE
+2021-03-10 20:40:04 INFO  DemoController:83 - ######  SALIDA DE GET ALL EXAMPLE
+2021-03-10 20:41:52 INFO  DemoController:71 - ######  ENTRADA A GET ALL EXAMPLE
+2021-03-10 20:41:53 INFO  DemoController:83 - ######  SALIDA DE GET ALL EXAMPLE
+2021-03-10 20:44:29 INFO  DemoController:96 - ######  ENTRADA A POST EXAMPLE  | JSON REQUEST : [{"id":0,"name":"pepe","firstName":"nombre","lastName":"apellido"}]
+2021-03-10 20:44:29 INFO  DemoController:110 - ######  SALIDA DE POST EXAMPLE
+2021-03-10 20:45:05 INFO  DemoController:96 - ######  ENTRADA A POST EXAMPLE  | JSON REQUEST : [{"id":0,"name":"pep2","firstName":"nombre2","lastName":"apellido2"}]
+2021-03-10 20:45:05 INFO  DemoController:110 - ######  SALIDA DE POST EXAMPLE
+2021-03-10 20:45:44 INFO  DemoController:96 - ######  ENTRADA A POST EXAMPLE  | JSON REQUEST : [{"id":0,"name":"pep3","firstName":"nombre3","lastName":"apellido23"}]
+2021-03-10 20:45:44 INFO  DemoController:110 - ######  SALIDA DE POST EXAMPLE
+2021-03-10 20:46:15 INFO  DemoController:71 - ######  ENTRADA A GET ALL EXAMPLE
+2021-03-10 20:46:15 INFO  DemoController:83 - ######  SALIDA DE GET ALL EXAMPLE
+2021-03-10 20:46:37 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : {2}
+2021-03-10 20:46:41 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : {2}
+2021-03-10 20:47:06 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : {1}
+2021-03-10 20:47:31 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : {"1"}
+2021-03-10 20:47:59 INFO  DemoController:71 - ######  ENTRADA A GET ALL EXAMPLE
+2021-03-10 20:47:59 INFO  DemoController:83 - ######  SALIDA DE GET ALL EXAMPLE
+2021-03-10 20:49:54 INFO  DemoController:71 - ######  ENTRADA A GET ALL EXAMPLE
+2021-03-10 20:50:01 INFO  DemoController:83 - ######  SALIDA DE GET ALL EXAMPLE
+2021-03-10 20:50:04 INFO  DemoController:71 - ######  ENTRADA A GET ALL EXAMPLE
+2021-03-10 20:50:04 INFO  DemoController:83 - ######  SALIDA DE GET ALL EXAMPLE
+2021-03-10 20:50:24 INFO  DemoController:96 - ######  ENTRADA A POST EXAMPLE  | JSON REQUEST : [{"id":0,"name":"pep","firstName":"nombre","lastName":"apellido"}]
+2021-03-10 20:50:43 INFO  DemoController:110 - ######  SALIDA DE POST EXAMPLE
+2021-03-10 20:50:58 INFO  DemoController:96 - ######  ENTRADA A POST EXAMPLE  | JSON REQUEST : [{"id":0,"name":"pep3","firstName":"nombre3","lastName":"apellido3"}]
+2021-03-10 20:51:01 INFO  DemoController:110 - ######  SALIDA DE POST EXAMPLE
+2021-03-10 20:51:34 INFO  DemoController:96 - ######  ENTRADA A POST EXAMPLE  | JSON REQUEST : [{"id":0,"name":"pep8","firstName":"nombre8","lastName":"apellido8"}]
+2021-03-10 20:51:35 INFO  DemoController:110 - ######  SALIDA DE POST EXAMPLE
+2021-03-10 20:53:30 INFO  DemoController:71 - ######  ENTRADA A GET ALL EXAMPLE
+2021-03-10 20:53:30 INFO  DemoController:83 - ######  SALIDA DE GET ALL EXAMPLE
+2021-03-10 20:55:30 INFO  DemoController:96 - ######  ENTRADA A POST EXAMPLE  | JSON REQUEST : [{"id":0,"name":"arge","firstName":"pepe","lastName":"arge"}]
+2021-03-10 20:55:30 INFO  DemoController:110 - ######  SALIDA DE POST EXAMPLE
+2021-03-10 20:55:43 INFO  DemoController:96 - ######  ENTRADA A POST EXAMPLE  | JSON REQUEST : [{"id":1,"name":"arge1","firstName":"pepe1","lastName":"arge1"}]
+2021-03-10 20:55:43 INFO  DemoController:110 - ######  SALIDA DE POST EXAMPLE
+2021-03-10 20:55:56 INFO  DemoController:96 - ######  ENTRADA A POST EXAMPLE  | JSON REQUEST : [{"id":2,"name":"arge2","firstName":"pepe2","lastName":"arge2"}]
+2021-03-10 20:55:56 INFO  DemoController:110 - ######  SALIDA DE POST EXAMPLE
+2021-03-10 20:55:59 INFO  DemoController:71 - ######  ENTRADA A GET ALL EXAMPLE
+2021-03-10 20:55:59 INFO  DemoController:83 - ######  SALIDA DE GET ALL EXAMPLE
+2021-03-10 20:56:25 INFO  DemoController:96 - ######  ENTRADA A POST EXAMPLE  | JSON REQUEST : [{"id":3,"name":"arge3","firstName":"pepe3","lastName":"arge3"}]
+2021-03-10 20:56:25 INFO  DemoController:110 - ######  SALIDA DE POST EXAMPLE
+2021-03-10 20:56:29 INFO  DemoController:71 - ######  ENTRADA A GET ALL EXAMPLE
+2021-03-10 20:56:29 INFO  DemoController:83 - ######  SALIDA DE GET ALL EXAMPLE
+2021-03-10 20:56:49 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : {2}
+2021-03-10 20:57:06 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : 2
+2021-03-10 20:57:06 INFO  DemoController:57 - ######  SALIDA DE GET BY ID EXAMPLE
+2021-03-10 20:57:19 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : 1
+2021-03-10 20:57:19 INFO  DemoController:57 - ######  SALIDA DE GET BY ID EXAMPLE
+2021-03-10 20:58:02 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : 1
+2021-03-10 20:58:02 INFO  DemoController:57 - ######  SALIDA DE GET BY ID EXAMPLE
+2021-03-10 20:58:03 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : 1
+2021-03-10 20:58:03 INFO  DemoController:57 - ######  SALIDA DE GET BY ID EXAMPLE
+2021-03-10 20:58:10 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : {1}
+2021-03-10 20:58:25 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : "1"
+2021-03-10 20:59:19 INFO  DemoController:96 - ######  ENTRADA A POST EXAMPLE  | JSON REQUEST : [{"id":0,"name":"arge","firstName":"pepe","lastName":"string"}]
+2021-03-10 20:59:19 INFO  DemoController:110 - ######  SALIDA DE POST EXAMPLE
+2021-03-10 21:00:42 INFO  DemoController:96 - ######  ENTRADA A POST EXAMPLE  | JSON REQUEST : [{"id":1,"name":"arge1","firstName":"pepe1","lastName":"arge1"}]
+2021-03-10 21:00:44 INFO  DemoController:110 - ######  SALIDA DE POST EXAMPLE
+2021-03-10 21:01:21 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : {2}
+2021-03-10 21:01:40 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : 2
+2021-03-10 21:01:42 INFO  DemoController:57 - ######  SALIDA DE GET BY ID EXAMPLE
+2021-03-10 21:02:05 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : 2
+2021-03-10 21:02:26 INFO  DemoController:57 - ######  SALIDA DE GET BY ID EXAMPLE
+2021-03-10 21:03:25 INFO  DemoController:71 - ######  ENTRADA A GET ALL EXAMPLE
+2021-03-10 21:03:27 INFO  DemoController:83 - ######  SALIDA DE GET ALL EXAMPLE
+2021-03-10 21:03:55 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : "2"
+2021-03-10 21:04:09 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : "1"
+2021-03-10 21:04:24 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : {1}
+2021-03-10 21:04:45 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : 1
+2021-03-10 21:10:23 INFO  DemoController:96 - ######  ENTRADA A POST EXAMPLE  | JSON REQUEST : [{"id":1,"name":"arge1","firstName":"pepe1","lastName":"arge1"}]
+2021-03-10 21:10:24 INFO  DemoController:110 - ######  SALIDA DE POST EXAMPLE
+2021-03-10 21:10:35 INFO  DemoController:71 - ######  ENTRADA A GET ALL EXAMPLE
+2021-03-10 21:10:35 INFO  DemoController:83 - ######  SALIDA DE GET ALL EXAMPLE
+2021-03-10 21:10:47 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : 1
+2021-03-10 21:10:47 INFO  DemoController:57 - ######  SALIDA DE GET BY ID EXAMPLE
+2021-03-10 21:10:59 INFO  DemoController:71 - ######  ENTRADA A GET ALL EXAMPLE
+2021-03-10 21:10:59 INFO  DemoController:83 - ######  SALIDA DE GET ALL EXAMPLE
+2021-03-10 21:11:11 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : 1
+2021-03-10 21:11:11 INFO  DemoController:57 - ######  SALIDA DE GET BY ID EXAMPLE
+2021-03-10 21:15:03 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : 1
+2021-03-10 21:15:03 INFO  DemoController:57 - ######  SALIDA DE GET BY ID EXAMPLE
+2021-03-10 21:15:08 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : 0
+2021-03-10 21:15:08 INFO  DemoController:57 - ######  SALIDA DE GET BY ID EXAMPLE
+2021-03-10 21:15:20 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : 0
+2021-03-10 21:16:09 INFO  DemoController:57 - ######  SALIDA DE GET BY ID EXAMPLE
+2021-03-10 21:16:25 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : 1
+2021-03-10 21:16:25 INFO  DemoController:57 - ######  SALIDA DE GET BY ID EXAMPLE
+2021-03-10 21:16:32 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : 2
+2021-03-10 21:16:32 INFO  DemoController:57 - ######  SALIDA DE GET BY ID EXAMPLE
+2021-03-10 21:16:38 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : 3
+2021-03-10 21:16:38 INFO  DemoController:57 - ######  SALIDA DE GET BY ID EXAMPLE
+2021-03-10 21:16:49 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : 5
+2021-03-10 21:16:49 INFO  DemoController:57 - ######  SALIDA DE GET BY ID EXAMPLE
+2021-03-10 21:16:54 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : 1
+2021-03-10 21:16:54 INFO  DemoController:57 - ######  SALIDA DE GET BY ID EXAMPLE
+2021-03-10 21:18:38 INFO  DemoController:96 - ######  ENTRADA A POST EXAMPLE  | JSON REQUEST : [{"id":0,"name":"string","firstName":"string","lastName":"string"}]
+2021-03-10 21:18:38 INFO  DemoController:110 - ######  SALIDA DE POST EXAMPLE
+2021-03-10 21:18:47 INFO  DemoController:96 - ######  ENTRADA A POST EXAMPLE  | JSON REQUEST : [{"id":1,"name":"string1","firstName":"string1","lastName":"string1"}]
+2021-03-10 21:18:47 INFO  DemoController:110 - ######  SALIDA DE POST EXAMPLE
+2021-03-10 21:18:52 INFO  DemoController:71 - ######  ENTRADA A GET ALL EXAMPLE
+2021-03-10 21:18:52 INFO  DemoController:83 - ######  SALIDA DE GET ALL EXAMPLE
+2021-03-10 21:20:33 INFO  DemoController:96 - ######  ENTRADA A POST EXAMPLE  | JSON REQUEST : [{"id":1,"name":"string1","firstName":"string1","lastName":"string1"}]
+2021-03-10 21:20:33 INFO  DemoController:110 - ######  SALIDA DE POST EXAMPLE
+2021-03-10 21:20:46 INFO  DemoController:96 - ######  ENTRADA A POST EXAMPLE  | JSON REQUEST : [{"id":2,"name":"string2","firstName":"string2","lastName":"string2"}]
+2021-03-10 21:20:46 INFO  DemoController:110 - ######  SALIDA DE POST EXAMPLE
+2021-03-10 21:20:51 INFO  DemoController:71 - ######  ENTRADA A GET ALL EXAMPLE
+2021-03-10 21:20:51 INFO  DemoController:83 - ######  SALIDA DE GET ALL EXAMPLE
+2021-03-10 21:21:03 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : 2
+2021-03-10 21:21:03 INFO  DemoController:57 - ######  SALIDA DE GET BY ID EXAMPLE
+2021-03-10 21:21:09 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : 1
+2021-03-10 21:21:09 INFO  DemoController:57 - ######  SALIDA DE GET BY ID EXAMPLE
+2021-03-10 21:21:13 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : 2
+2021-03-10 21:21:13 INFO  DemoController:57 - ######  SALIDA DE GET BY ID EXAMPLE
+2021-03-10 21:21:17 INFO  DemoController:71 - ######  ENTRADA A GET ALL EXAMPLE
+2021-03-10 21:21:17 INFO  DemoController:83 - ######  SALIDA DE GET ALL EXAMPLE
+2021-03-10 21:25:21 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : 1
+2021-03-10 21:25:21 INFO  DemoController:57 - ######  SALIDA DE GET BY ID EXAMPLE
+2021-03-10 21:25:51 INFO  DemoController:96 - ######  ENTRADA A POST EXAMPLE  | JSON REQUEST : [{"id":4,"name":"4","firstName":"4","lastName":"4"}]
+2021-03-10 21:25:51 INFO  DemoController:110 - ######  SALIDA DE POST EXAMPLE
+2021-03-10 21:25:59 INFO  DemoController:71 - ######  ENTRADA A GET ALL EXAMPLE
+2021-03-10 21:25:59 INFO  DemoController:83 - ######  SALIDA DE GET ALL EXAMPLE
+2021-03-10 21:26:27 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : 3
+2021-03-10 21:26:27 INFO  DemoController:57 - ######  SALIDA DE GET BY ID EXAMPLE
+2021-03-10 21:26:36 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : 4
+2021-03-10 21:26:36 INFO  DemoController:57 - ######  SALIDA DE GET BY ID EXAMPLE
+2021-03-10 21:52:37 INFO  DemoController:96 - ######  ENTRADA A POST EXAMPLE  | JSON REQUEST : [{"id":1,"name":"string","firstName":"string","lastName":"string"}]
+2021-03-10 21:52:37 INFO  DemoController:110 - ######  SALIDA DE POST EXAMPLE
+2021-03-10 21:53:04 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : 1
+2021-03-10 21:53:04 INFO  DemoController:57 - ######  SALIDA DE GET BY ID EXAMPLE
+2021-03-10 21:54:50 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : 1
+2021-03-10 21:55:43 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : 1
+2021-03-10 21:58:40 INFO  DemoController:57 - ######  SALIDA DE GET BY ID EXAMPLE
+2021-03-10 21:59:37 INFO  DemoController:57 - ######  SALIDA DE GET BY ID EXAMPLE
+2021-03-10 22:00:04 INFO  DemoController:149 - ######  ENTRADA A DELETE EXAMPLE  |  CODE : 1
+2021-03-10 22:00:07 INFO  DemoController:162 - ######  SALIDA DE DELETE EXAMPLE
+2021-03-10 22:00:31 INFO  DemoController:71 - ######  ENTRADA A GET ALL EXAMPLE
+2021-03-10 22:00:31 INFO  DemoController:83 - ######  SALIDA DE GET ALL EXAMPLE
+2021-03-10 22:01:27 INFO  DemoController:71 - ######  ENTRADA A GET ALL EXAMPLE
+2021-03-10 22:01:27 INFO  DemoController:83 - ######  SALIDA DE GET ALL EXAMPLE
+2021-03-10 22:01:37 INFO  DemoController:96 - ######  ENTRADA A POST EXAMPLE  | JSON REQUEST : [{"id":1,"name":"string","firstName":"string","lastName":"string"}]
+2021-03-10 22:01:37 INFO  DemoController:110 - ######  SALIDA DE POST EXAMPLE
+2021-03-10 22:01:43 INFO  DemoController:71 - ######  ENTRADA A GET ALL EXAMPLE
+2021-03-10 22:01:43 INFO  DemoController:83 - ######  SALIDA DE GET ALL EXAMPLE
+2021-03-10 22:02:17 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : 2
+2021-03-10 22:02:17 INFO  DemoController:57 - ######  SALIDA DE GET BY ID EXAMPLE
+2021-03-10 22:02:23 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : 1
+2021-03-10 22:02:23 INFO  DemoController:57 - ######  SALIDA DE GET BY ID EXAMPLE
+2021-03-10 22:02:39 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : 2
+2021-03-10 22:02:39 INFO  DemoController:57 - ######  SALIDA DE GET BY ID EXAMPLE
+2021-03-10 22:03:26 INFO  DemoController:123 - ######  ENTRADA A PUT EXAMPLE  | JSON REQUEST : [{"id":0,"name":"pepe","firstName":"pepe","lastName":"pepe"}]
+2021-03-10 22:03:26 INFO  DemoController:136 - ######  SALIDA DE PUT EXAMPLE
+2021-03-10 22:03:36 INFO  DemoController:71 - ######  ENTRADA A GET ALL EXAMPLE
+2021-03-10 22:03:36 INFO  DemoController:83 - ######  SALIDA DE GET ALL EXAMPLE
+2021-03-10 22:04:08 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : 3
+2021-03-10 22:04:08 INFO  DemoController:57 - ######  SALIDA DE GET BY ID EXAMPLE
+2021-03-10 22:04:19 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : 5
+2021-03-10 22:04:19 INFO  DemoController:57 - ######  SALIDA DE GET BY ID EXAMPLE
+2021-03-10 22:04:29 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : 0
+2021-03-10 22:04:29 INFO  DemoController:57 - ######  SALIDA DE GET BY ID EXAMPLE
+2021-03-10 22:14:41 INFO  DemoController:96 - ######  ENTRADA A POST EXAMPLE  | JSON REQUEST : [{"id":1,"name":"string","firstName":"string","lastName":"string"}]
+2021-03-10 22:14:41 INFO  DemoController:110 - ######  SALIDA DE POST EXAMPLE
+2021-03-10 22:15:01 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : 1
+2021-03-10 22:15:01 INFO  DemoController:57 - ######  SALIDA DE GET BY ID EXAMPLE
+2021-03-10 22:15:35 INFO  DemoController:96 - ######  ENTRADA A POST EXAMPLE  | JSON REQUEST : [{"id":3,"name":"string3","firstName":"string3","lastName":"string3"}]
+2021-03-10 22:15:35 INFO  DemoController:110 - ######  SALIDA DE POST EXAMPLE
+2021-03-10 22:16:04 INFO  DemoController:43 - ######  ENTRADA A GET BY ID EXAMPLE |  CODE : 2
+2021-03-10 22:16:04 INFO  DemoController:57 - ######  SALIDA DE GET BY ID EXAMPLE
